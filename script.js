@@ -33,4 +33,3 @@ function calculateNums(firstNumber, operatorSign , secondNumber){
 firstNum = '20'
 secondNum = '23'
 operator = '*'
-console.log(calculateNums(firstNum, operator , secondNum))
